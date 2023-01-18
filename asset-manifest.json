@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/retink-app/static/css/main.68984840.css",
+    "main.js": "/retink-app/static/js/main.3e9f4928.js",
+    "static/js/787.258d6db0.chunk.js": "/retink-app/static/js/787.258d6db0.chunk.js",
+    "static/media/retink-avatar.svg": "/retink-app/static/media/retink-avatar.d4417f38acd6f68baca750c619b89435.svg",
+    "static/media/lenses.png": "/retink-app/static/media/lenses.082c09e76603c3c87775.png",
+    "static/media/video.png": "/retink-app/static/media/video.3d09c3b85dae698dbe03.png",
+    "static/media/hand-laptop.png": "/retink-app/static/media/hand-laptop.612fa36913e12e62dc7c.png",
+    "static/media/logo.png": "/retink-app/static/media/logo.366f4bc88909f8400398.png",
+    "static/media/laptop.png": "/retink-app/static/media/laptop.3ec5ba62ef8fbdcbccc3.png",
+    "static/media/typewriter.png": "/retink-app/static/media/typewriter.8faa2c4db25f6debe8cd.png",
+    "static/media/smartphone.png": "/retink-app/static/media/smartphone.952f9cbbd499c18fd93f.png",
+    "static/media/retinklogo.svg": "/retink-app/static/media/retinklogo.d0dfb6a8552add229230b1492cf431f7.svg",
+    "static/media/Groupbrandidentity.svg": "/retink-app/static/media/Groupbrandidentity.57025f5d87d8d08095a097bbe636a2d5.svg",
+    "static/media/direct-customer.svg": "/retink-app/static/media/direct-customer.686a654e1fa5005295a103f783a3b09b.svg",
+    "static/media/artificial-intelligence.svg": "/retink-app/static/media/artificial-intelligence.066280aa295fdafcd5abf8f5c8f68865.svg",
+    "static/media/instagram.svg": "/retink-app/static/media/instagram.63b99abf8e784c7e578aa21f1fbf71fc.svg",
+    "static/media/pinterest.svg": "/retink-app/static/media/pinterest.454c478d41f2633bca6512a71d77b927.svg",
+    "static/media/linkedin.svg": "/retink-app/static/media/linkedin.404d8197ccbf310aa2222357b8fa5a60.svg",
+    "static/media/Vectorpublish.svg": "/retink-app/static/media/Vectorpublish.4de3c00644ab8212a520e65ed6c666a8.svg",
+    "static/media/twitter.svg": "/retink-app/static/media/twitter.2255b06f128343aa90147484238ee475.svg",
+    "static/media/youtube.svg": "/retink-app/static/media/youtube.c6540ad8afb04ae24f4cef7f63773a0c.svg",
+    "index.html": "/retink-app/index.html",
+    "static/media/Vectorinform.svg": "/retink-app/static/media/Vectorinform.3d11090a34dc93cb15db543934da391e.svg",
+    "static/media/facebook.svg": "/retink-app/static/media/facebook.e960fb375a3b5946ada334ffc453e90d.svg",
+    "main.68984840.css.map": "/retink-app/static/css/main.68984840.css.map",
+    "main.3e9f4928.js.map": "/retink-app/static/js/main.3e9f4928.js.map",
+    "787.258d6db0.chunk.js.map": "/retink-app/static/js/787.258d6db0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68984840.css",
+    "static/js/main.3e9f4928.js"
+  ]
+}
